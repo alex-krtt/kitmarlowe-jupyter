@@ -41,7 +41,7 @@ During the installation, make sure to check the following options:
 #### Removing Anaconda from your computer
 If you would like to permanently uninstall and delete Anaconda, you may follow this guide: [https://docs.anaconda.com/free/anaconda/install/uninstall/](https://docs.anaconda.com/free/anaconda/install/uninstall/)
 
-## Anaconda – Running your first JupyterLab notebook
+## Anaconda – Running your first JupyterLab notebook locally
 
 Now that we have gotten Anaconda installed, we will need to download the repository from GitHub so that we can use the code and the accompanying books to run a few analyses.
 
@@ -78,6 +78,11 @@ Before we begin running the jupyterlab scripts, I recommend making the following
 6. Click “Run” then “Restart Kernel and Run All Cells…” You only have to restart once per new installation.
 
 Congratulations you just run your first Jupyter Notebook!
+
+## Google Colab – Running your first JupyterLab notebook on the cloud
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-krtt/kitmarlowe-jupyter/blob/master/)
+
 
 ## License
 The corpora used in this project are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
