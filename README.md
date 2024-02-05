@@ -81,7 +81,7 @@ Congratulations you just run your first Jupyter Notebook!
 
 ## Google Colab – Running your first JupyterLab notebook on the cloud
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-krtt/kitmarlowe-jupyter/blob/master/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-krtt/kitmarlowe-jupyter/blob/master/colab-notebooks)
 
 
 ## License
