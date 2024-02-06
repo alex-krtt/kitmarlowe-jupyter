@@ -79,10 +79,10 @@ Before we begin running the jupyterlab scripts, I recommend making the following
 
 Congratulations you just run your first Jupyter Notebook!
 
-## Google Colab – Running your first JupyterLab notebook on the cloud
+## GitHub Codespaces – Running your first JupyterLab notebook on the cloud
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-krtt/kitmarlowe-jupyter/blob/master/colab-notebooks)
-
+1. Click Code
+2. Click Open in Codespaces
 
 ## License
 The corpora used in this project are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
