@@ -85,7 +85,7 @@ Congratulations you just run your first Jupyter Notebook!
 2. Click Code
 3. Click Open in Codespaces
 
-## License
+### License
 The corpora used in this project are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Original data provided with permission by Kit Marlowe Project and Folger.
