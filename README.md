@@ -84,6 +84,9 @@ Congratulations you just run your first Jupyter Notebook!
 1. Create a GitHub account if you have not done so already.
 2. Click Code
 3. Click Open in Codespaces
+4. Let the workspace open
+5. Go back to the GitHub page and refresh the page
+6. Click Code click the three dots of the current branch
 
 ### License
 The corpora used in this project are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
