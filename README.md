@@ -52,7 +52,7 @@ Now that we have gotten Anaconda installed, we will need to download the reposit
 
 - Double click the downloaded .zip archive. This should create a folder which is what we need.
 
-### For Windows 10/11 Users
+### ClickWindows 10/11 Users
 
 - Right click the downloaded zip folder and click “Extract All”.
 
@@ -82,11 +82,13 @@ Congratulations you just run your first Jupyter Notebook!
 ## GitHub Codespaces – Running your first JupyterLab notebook on the cloud
 
 1. Create a GitHub account if you have not done so already.
-2. Click Code
-3. Click Open in Codespaces
-4. Let the workspace open
-5. Go back to the GitHub page and refresh the page
-6. Click Code click the three dots of the current branch
+2. Click on the 'Code' button located on the repository page.
+3. From the dropdown menu, select 'Open in Codespaces'. This will open the code in a cloud-based development environment.
+4. Wait for the workspace to load. This may take a few moments.
+5. Once the workspace is open, return to the GitHub repository page in your browser.
+6. Refresh the page to ensure you're viewing the most recent version of the code.
+7. Click on the 'Code' button again, then click on the three dots next to the current branch name.
+8. From the dropdown menu, select 'Open in JupyterLab' to start working on the sentiment analysis code in your the JupyterLab environment.
 
 ### License
 The corpora used in this project are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
